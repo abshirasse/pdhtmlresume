@@ -1,0 +1,45 @@
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+		<meta content="utf-8" http-equiv="encoding">
+		<title>Abshir's Prime Academy Application Submission</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+	</head>
+
+	<body>
+		<div id="container">
+			<div id="content-contact">
+				<h1>Abshir Asse</h1>
+				<h2>3861 3rd St NE</h2>
+				<h2>Minneapolis, MN 55421</h2>
+				<h2>(612) 300-8626</h2>
+			</div>
+
+			<div id="content-summary">
+				<h3>About me</h3>
+				<p>Extremely motivated in whatever I do. Love everything about computers, animals & video games. Very detail orientated & family orientated.</p>
+			</div>
+
+			<div id="content-professional"> Professional Experience
+				
+					<h3>BMS Signs & Printing</h3>
+					<div class="block-date">
+							<h4>Graphic Design lead</h4>
+							<h4>September 2016 - Current</h4>
+					</div>		
+					<div class"block-content">
+							<ul>	
+								<li>Develop graphic content for commercial entities such as restaurants, department stores & other businesses</li>
+								<li>Engage with customers to create specific graphics to match brand identity</li>
+								<li>Offer editing and revisions in design and wording to all projects</li>
+								<li>Worked with entire Adobe software such as Photoshop & Illustrator among others</li>
+								<li>Work in coordination with our print specialists to make sure all sizing and color grading would match when design was physically fabricated to meet our clients demands</li>
+							</ul>	
+					</div>
+				</div>
+		</div>
+
+	</body>
+</html>
